@@ -1,0 +1,3 @@
+[submodule "flink-playgrounds"]
+	path = flink-playgrounds
+	url = https://github.com/apache/flink-playgrounds.git
